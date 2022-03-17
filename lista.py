@@ -57,7 +57,7 @@ haicais = ["O ano velho e o ano novo,\nComo se houvesse um bastão\nA trespassá
 	"Chuva de verão.\nOs pingos batem\nNas cabeças das carpas.\n\n(Shiki)",
 	"Apenas\nOs bastões dos peregrinos —\nCampo de verão.\n\n(Ishû)",
 	"O rio de verão —\nQue alegria atravessá-lo\nDe sandálias à mão.\n\n(Buson)",
-	"Refresca um pouco\nPôr os pés na parede\n\n(Bashô)",
+	"Refresca um pouco\nPôr os pés na parede\ndurante a sesta.\n\n(Bashô)",
 	"Ao fazer a sesta,\nA mão que segura o leque\nPára de se mexer...\n\n(Taigi)",
 	"Que coisa linda,\nAgitando o leque branco,\nÉ o meu amor.\n\n(Buson)",
 	"Oh, melões frescos,\nSe alguém aparecer,\nTransformem-se em rãs!\n\n(Issa)",
